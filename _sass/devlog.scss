@@ -6,7 +6,6 @@ body {
 header {
     background-color: #F5F5F5;
     box-shadow: 10px 0px 8px;
-    height: 200px;
     width: 100%;
     padding: 11px;
 }
@@ -19,7 +18,7 @@ header {
 .profile-img {
     width: 150px;
     height: 150px;
-    margin-left: 20px;
+    border-radius: 40%;
 }
 
 .profile-name {

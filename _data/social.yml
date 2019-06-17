@@ -1,15 +1,15 @@
 - name: facebook
   href: http://facebook.com/guilherme.mello.522
-  class: fab fa-facebook-f
+  class: fab fa-facebook-f fa-lg
 
 - name: instagram
   href: http://instagram.com/guilhermemello7709
-  class: fab fa-instagram
+  class: fab fa-instagram fa-lg
 
 - name: github
   href: http://github.com/melloGuilherme
-  class: fab fa-github
+  class: fab fa-github fa-lg
 
 - name: linkedin
   href: http://linkedin.com/in/guilherme-mello-728710131
-  class: fab fa-linkedin-in
+  class: fab fa-linkedin-in fa-lg
